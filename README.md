@@ -31,7 +31,7 @@ The goal is to allow users to ask natural language questions and receive fact-ba
 
 ## ✅ Why LangChain?
 
-LangChain is a powerful framework that helps orchestrate components in a **Retrieval-Augmented Generation (RAG)** pipeline — ideal for document-based Q&A systems.
+LangChain is a powerful framework that helps orchestrate components in a **Retrieval-Augmented Generation (RAG)** pipeline, ideal for document-based Q&A systems.
 
 ---
 
