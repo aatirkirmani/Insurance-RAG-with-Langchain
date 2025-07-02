@@ -1,0 +1,14 @@
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-text-splitters
+chromadb
+huggingface-hub
+sentence-transformers
+torch
+transformers
+python-dotenv
+tqdm
+pypdf
